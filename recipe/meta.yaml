@@ -1,5 +1,5 @@
 {% set name = "ibm_db_sa" %}
-{% set version = "0.3.8" %}
+{% set version = "0.4.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 21086bbab8161dddf650644f6743e42f530d48d505562e12a8a12138744211e0
+  sha256: 75d536407e5966f1dc747b6322938c4ad5d63b104edb834d667d03e64efef15b
 
 build:
   number: 0
