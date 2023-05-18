@@ -1,11 +1,11 @@
-About ibm_db_sa
-===============
+About ibm_db_sa-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ibm_db_sa-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/ibm-db-sa/
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ibm_db_sa-feedstock/blob/main/LICENSE.txt)
 
 Summary: Python SQLAlchemy driver for DB2 (LUW, zOS, i5) and IDS
 
@@ -402,4 +402,5 @@ Feedstock Maintainers
 =====================
 
 * [@amukherjee28](https://github.com/amukherjee28/)
+* [@windiana42](https://github.com/windiana42/)
 
