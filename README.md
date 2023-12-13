@@ -366,6 +366,7 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@0xbe7a](https://github.com/0xbe7a/)
 * [@amukherjee28](https://github.com/amukherjee28/)
 * [@windiana42](https://github.com/windiana42/)
 
