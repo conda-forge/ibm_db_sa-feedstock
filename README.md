@@ -257,7 +257,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-ibm_db_sa-green.svg)](https://anaconda.org/conda-forge/ibm_db_sa) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/ibm_db_sa.svg)](https://anaconda.org/conda-forge/ibm_db_sa) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/ibm_db_sa.svg)](https://anaconda.org/conda-forge/ibm_db_sa) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/ibm_db_sa.svg)](https://anaconda.org/conda-forge/ibm_db_sa) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-ibm__db__sa-green.svg)](https://anaconda.org/conda-forge/ibm_db_sa) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/ibm_db_sa.svg)](https://anaconda.org/conda-forge/ibm_db_sa) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/ibm_db_sa.svg)](https://anaconda.org/conda-forge/ibm_db_sa) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/ibm_db_sa.svg)](https://anaconda.org/conda-forge/ibm_db_sa) |
 
 Installing ibm_db_sa
 ====================
