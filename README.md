@@ -375,5 +375,6 @@ Feedstock Maintainers
 
 * [@0xbe7a](https://github.com/0xbe7a/)
 * [@amukherjee28](https://github.com/amukherjee28/)
+* [@pavelzw](https://github.com/pavelzw/)
 * [@windiana42](https://github.com/windiana42/)
 
