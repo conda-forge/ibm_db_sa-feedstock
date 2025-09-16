@@ -10,7 +10,7 @@ source:
   sha256: 7ebdbf29d34b23870b7d22e3c55aef9b4e90250e3fb163bd6dde670326d6a34f
 
 build:
-  number: 0
+  number: 1
   script: {{ PYTHON }} -m pip install . -vv
 
 requirements:
@@ -22,7 +22,7 @@ requirements:
     - python
     - pip
     - setuptools
-    - libxml2
+    - libxml2-devel
 
   run:
     - python
