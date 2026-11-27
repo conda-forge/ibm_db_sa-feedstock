@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.4.4"
+  version: "0.5.0"
 
 package:
   name: ibm_db_sa
@@ -9,10 +9,10 @@ package:
 
 source:
   url: https://pypi.org/packages/source/i/ibm_db_sa/ibm_db_sa-${{ version }}.tar.gz
-  sha256: f2567853fd095821964d6a6880e54fddee249d68cc835a3fd0c7d1cdd6a01055
+  sha256: 5fce91685c6f0febeca4e4d8fdd799c0e91894ce36f6855a0cf310a1baa43994
 
 build:
-  number: 1
+  number: 0
   noarch: python
   script: ${{ PYTHON }} -m pip install . -vv
 
